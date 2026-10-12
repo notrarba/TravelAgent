@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Mini Autonomous Travel Agent
+Mini Autonomous Travel Agent
 
 A classroom-ready mini autonomous AI travel agent built with a **Flask backend** and a **HTML/CSS/JavaScript frontend**.
 
