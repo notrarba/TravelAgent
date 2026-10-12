@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini Autonomous Travel Agent
 
 A classroom-ready mini autonomous AI travel agent built with a **Flask backend** and a **HTML/CSS/JavaScript frontend**.
@@ -460,3 +461,7 @@ Possible extensions:
 - Add richer long-term memory
 - Add real-time weather
 - Add email itinerary generation
+=======
+# TravelAgent
+A mini Autonomous AI travel agent
+>>>>>>> 6059de3482784b37c31485c5bda33e1ad7eac783
